@@ -1,0 +1,151 @@
+-:- , Everton , http://www.livescore.cz/team.php?teamid=8668 , AFC Bournemouth , http://www.livescore.cz/team.php?teamid=8678
+-:- , Tottenham Hotspur , http://www.livescore.cz/team.php?teamid=8586 , Manchester United , http://www.livescore.cz/team.php?teamid=10260
+-:- , Nantes , http://www.livescore.cz/team.php?teamid=9830 , Rennes , http://www.livescore.cz/team.php?teamid=9851
+-:- , Dijon , http://www.livescore.cz/team.php?teamid=9836 , Montpellier , http://www.livescore.cz/team.php?teamid=10249
+-:- , Toulouse , http://www.livescore.cz/team.php?teamid=9941 , Strasbourg , http://www.livescore.cz/team.php?teamid=9848
+-:- , Marseille , http://www.livescore.cz/team.php?teamid=8592 , Monaco , http://www.livescore.cz/team.php?teamid=9829
+-:- , Nacional , http://www.livescore.cz/team.php?teamid=10214 , Belenenses SAD , http://www.livescore.cz/team.php?teamid=9807
+-:- , Chaves , http://www.livescore.cz/team.php?teamid=9774 , Tondela , http://www.livescore.cz/team.php?teamid=188163
+-:- , Rio Ave , http://www.livescore.cz/team.php?teamid=7841 , Vitoria de Setubal , http://www.livescore.cz/team.php?teamid=10238
+-:- , Atletico Madrid , http://www.livescore.cz/team.php?teamid=9906 , Levante , http://www.livescore.cz/team.php?teamid=8581
+-:- , Athletic Bilbao , http://www.livescore.cz/team.php?teamid=8315 , Sevilla , http://www.livescore.cz/team.php?teamid=8302
+-:- , Barcelona , http://www.livescore.cz/team.php?teamid=8634 , Eibar , http://www.livescore.cz/team.php?teamid=8372
+-:- , Real Betis , http://www.livescore.cz/team.php?teamid=8603 , Real Madrid , http://www.livescore.cz/team.php?teamid=8633
+-:- , North Korea , http://www.livescore.cz/team.php?teamid=6330 , Qatar , http://www.livescore.cz/team.php?teamid=5902
+-:- , Oman , http://www.livescore.cz/team.php?teamid=5824 , Japan , http://www.livescore.cz/team.php?teamid=6715
+-:- , Turkmenistan , http://www.livescore.cz/team.php?teamid=5900 , Uzbekistan , http://www.livescore.cz/team.php?teamid=8700
+-:- , Sydney FC , http://www.livescore.cz/team.php?teamid=10164 , Adelaide United , http://www.livescore.cz/team.php?teamid=8008
+-:- , Perth Glory , http://www.livescore.cz/team.php?teamid=7961 , Western Sydney Wanderers FC , http://www.livescore.cz/team.php?teamid=323834
+-:- , Levadiakos , http://www.livescore.cz/team.php?teamid=4493 , Olympiacos , http://www.livescore.cz/team.php?teamid=8638
+-:- , Panathinaikos , http://www.livescore.cz/team.php?teamid=10200 , Xanthi , http://www.livescore.cz/team.php?teamid=8672
+-:- , Asteras Tripolis , http://www.livescore.cz/team.php?teamid=80654 , PAOK Thessaloniki FC , http://www.livescore.cz/team.php?teamid=8619
+-:- , Beitar Jerusalem , http://www.livescore.cz/team.php?teamid=8173 , Hapoel Ironi Kiryat Shmona , http://www.livescore.cz/team.php?teamid=2095
+-:- , Torino , http://www.livescore.cz/team.php?teamid=9804 , Fiorentina , http://www.livescore.cz/team.php?teamid=8535
+-:- , Inter , http://www.livescore.cz/team.php?teamid=8636 , Benevento , http://www.livescore.cz/team.php?teamid=6266
+-:- , SSC Napoli , http://www.livescore.cz/team.php?teamid=9875 , Sassuolo , http://www.livescore.cz/team.php?teamid=7943
+2:2 , Monterrey , http://www.livescore.cz/team.php?teamid=7849 , Leon , http://www.livescore.cz/team.php?teamid=1841
+0:1 , Cruz Azul , http://www.livescore.cz/team.php?teamid=6578 , CD Guadalajara , http://www.livescore.cz/team.php?teamid=7807
+3:0 , Pachuca , http://www.livescore.cz/team.php?teamid=7848 , Queretaro FC , http://www.livescore.cz/team.php?teamid=1943
+0:0 , Necaxa , http://www.livescore.cz/team.php?teamid=1842 , Pumas , http://www.livescore.cz/team.php?teamid=1946
+0:0 , Tijuana , http://www.livescore.cz/team.php?teamid=162418 , Tigres , http://www.livescore.cz/team.php?teamid=8561
+-:- , Toluca , http://www.livescore.cz/team.php?teamid=6618 , Puebla , http://www.livescore.cz/team.php?teamid=7847
+-:- , Cambuur , http://www.livescore.cz/team.php?teamid=7788 , Sparta Rotterdam , http://www.livescore.cz/team.php?teamid=8614
+-:- , Jong FC Utrecht , http://www.livescore.cz/team.php?teamid=278960 , Jong AZ Alkmaar , http://www.livescore.cz/team.php?teamid=681217
+-:- , FC Dordrecht , http://www.livescore.cz/team.php?teamid=6631 , FC Den Bosch , http://www.livescore.cz/team.php?teamid=9835
+-:- , MVV Maastricht , http://www.livescore.cz/team.php?teamid=9838 , FC Twente , http://www.livescore.cz/team.php?teamid=8611
+-:- , FC Eindhoven , http://www.livescore.cz/team.php?teamid=6416 , NEC Nijmegen , http://www.livescore.cz/team.php?teamid=8464
+-:- , Roda JC Kerkrade , http://www.livescore.cz/team.php?teamid=9803 , Go Ahead Eagles , http://www.livescore.cz/team.php?teamid=6433
+-:- , Jong Ajax , http://www.livescore.cz/team.php?teamid=163363 , Jong PSV , http://www.livescore.cz/team.php?teamid=455494
+-:- , TOP Oss , http://www.livescore.cz/team.php?teamid=7781 , RKC Waalwijk , http://www.livescore.cz/team.php?teamid=10219
+-:- , Almere City FC , http://www.livescore.cz/team.php?teamid=4116 , FC Volendam , http://www.livescore.cz/team.php?teamid=6601
+-:- , Telstar , http://www.livescore.cz/team.php?teamid=6414 , Helmond Sport , http://www.livescore.cz/team.php?teamid=6417
+-:- , Cordoba , http://www.livescore.cz/team.php?teamid=7869 , Rayo Majadahonda , http://www.livescore.cz/team.php?teamid=189674
+-:- , Alcorcon , http://www.livescore.cz/team.php?teamid=161750 , Almeria , http://www.livescore.cz/team.php?teamid=9865
+-:- , Real Zaragoza , http://www.livescore.cz/team.php?teamid=8394 , Malaga , http://www.livescore.cz/team.php?teamid=9864
+-:- , Lugo , http://www.livescore.cz/team.php?teamid=8206 , Extremadura , http://www.livescore.cz/team.php?teamid=7883
+-:- , Elche , http://www.livescore.cz/team.php?teamid=10268 , Gimnastic , http://www.livescore.cz/team.php?teamid=8400
+-:- , Union St.-Gilloise , http://www.livescore.cz/team.php?teamid=7978 , KV Mechelen , http://www.livescore.cz/team.php?teamid=8203
+-:- , Oud-Heverlee , http://www.livescore.cz/team.php?teamid=1773 , Tubize , http://www.livescore.cz/team.php?teamid=4049
+-:- , RasenBallsport Leipzig , http://www.livescore.cz/team.php?teamid=178475 , Wolfsberger AC , http://www.livescore.cz/team.php?teamid=1954
+-:- , Broendby IF , http://www.livescore.cz/team.php?teamid=8595 , Ballerup-Skovlunde , http://www.livescore.cz/team.php?teamid=9953
+-:- , Hannover 96 , http://www.livescore.cz/team.php?teamid=9904 , Heracles , http://www.livescore.cz/team.php?teamid=9791
+-:- , Frosinone , http://www.livescore.cz/team.php?teamid=9891 , Paganese , http://www.livescore.cz/team.php?teamid=88997
+-:- , Udinese , http://www.livescore.cz/team.php?teamid=8600 , Calcio Padova , http://www.livescore.cz/team.php?teamid=583944
+-:- , Anderlecht , http://www.livescore.cz/team.php?teamid=8635 , FC Heidenheim , http://www.livescore.cz/team.php?teamid=94937
+-:- , Benfica B , http://www.livescore.cz/team.php?teamid=338302 , Braga B , http://www.livescore.cz/team.php?teamid=338303
+-:- , Cova da Piedade , http://www.livescore.cz/team.php?teamid=474338 , Pacos de Ferreira , http://www.livescore.cz/team.php?teamid=6403
+-:- , FC Porto B , http://www.livescore.cz/team.php?teamid=338304 , Vitoria de Guimaraes B , http://www.livescore.cz/team.php?teamid=338305
+-:- , Mafra , http://www.livescore.cz/team.php?teamid=47535 , Sporting Covilha , http://www.livescore.cz/team.php?teamid=1940
+-:- , Academico Viseu , http://www.livescore.cz/team.php?teamid=1786 , Farense , http://www.livescore.cz/team.php?teamid=6004
+-:- , Academica , http://www.livescore.cz/team.php?teamid=10215 , Varzim , http://www.livescore.cz/team.php?teamid=1722
+-:- , Arouca , http://www.livescore.cz/team.php?teamid=158085 , Oliveirense , http://www.livescore.cz/team.php?teamid=1785
+-:- , San Sebastian de los Reyes , http://www.livescore.cz/team.php?teamid=2428 , Real Valladolid B , http://www.livescore.cz/team.php?teamid=161748
+-:- , Burgos CF , http://www.livescore.cz/team.php?teamid=7876 , Ponferradina , http://www.livescore.cz/team.php?teamid=8005
+-:- , Las Palmas B , http://www.livescore.cz/team.php?teamid=161760 , Real Madrid Castilla , http://www.livescore.cz/team.php?teamid=8367
+-:- , Coruxo F.C. , http://www.livescore.cz/team.php?teamid=96929 , Navalcarnero , http://www.livescore.cz/team.php?teamid=161758
+-:- , Rapido de Bouzas , http://www.livescore.cz/team.php?teamid=189583 , Leonesa , http://www.livescore.cz/team.php?teamid=1753
+-:- , Guijuelo , http://www.livescore.cz/team.php?teamid=161741 , Celta Vigo B , http://www.livescore.cz/team.php?teamid=161743
+-:- , Pontevedra , http://www.livescore.cz/team.php?teamid=7862 , Unionistas de Salamanca , http://www.livescore.cz/team.php?teamid=780591
+-:- , Salamanca CF UDS , http://www.livescore.cz/team.php?teamid=490334 , Fuenlabrada , http://www.livescore.cz/team.php?teamid=8555
+-:- , Atletico Madrid B , http://www.livescore.cz/team.php?teamid=161759 , AD Union Adarve , http://www.livescore.cz/team.php?teamid=278796
+-:- , Tudelano , http://www.livescore.cz/team.php?teamid=190055 , Athletic Bilbao B , http://www.livescore.cz/team.php?teamid=161850
+-:- , Real Oviedo B , http://www.livescore.cz/team.php?teamid=209008 , Barakaldo , http://www.livescore.cz/team.php?teamid=7734
+-:- , RS Gimnastica , http://www.livescore.cz/team.php?teamid=8356 , Real Union , http://www.livescore.cz/team.php?teamid=8380
+-:- , Mirandes , http://www.livescore.cz/team.php?teamid=4032 , Izarra , http://www.livescore.cz/team.php?teamid=141785
+-:- , Arenas Getxo , http://www.livescore.cz/team.php?teamid=189631 , CD Vitoria , http://www.livescore.cz/team.php?teamid=277397
+-:- , Conquense , http://www.livescore.cz/team.php?teamid=6256 , Ejea , http://www.livescore.cz/team.php?teamid=141787
+-:- , Atletico Baleares , http://www.livescore.cz/team.php?teamid=141784 , Castellon , http://www.livescore.cz/team.php?teamid=10279
+-:- , Espanyol B , http://www.livescore.cz/team.php?teamid=177226 , Badalona , http://www.livescore.cz/team.php?teamid=2241
+-:- , Ebro , http://www.livescore.cz/team.php?teamid=209199 , Valencia B , http://www.livescore.cz/team.php?teamid=161777
+-:- , CF Peralada , http://www.livescore.cz/team.php?teamid=561260 , Sabadell , http://www.livescore.cz/team.php?teamid=4033
+-:- , Barcelona B , http://www.livescore.cz/team.php?teamid=161774 , Alcoyano , http://www.livescore.cz/team.php?teamid=4697
+-:- , CD Teruel , http://www.livescore.cz/team.php?teamid=190091 , Atletico Levante UD , http://www.livescore.cz/team.php?teamid=189654
+-:- , Ontinyent , http://www.livescore.cz/team.php?teamid=161776 , Hercules , http://www.livescore.cz/team.php?teamid=10278
+-:- , UD Cornella , http://www.livescore.cz/team.php?teamid=189640 , UE Olot , http://www.livescore.cz/team.php?teamid=277406
+-:- , Lorca FC , http://www.livescore.cz/team.php?teamid=210853 , Sevilla Atletico , http://www.livescore.cz/team.php?teamid=91431
+-:- , Ibiza-Eivissa , http://www.livescore.cz/team.php?teamid=161779 , Sevilla Atletico , http://www.livescore.cz/team.php?teamid=91431
+-:- , CD El Ejido 2012 , http://www.livescore.cz/team.php?teamid=564753 , Melilla , http://www.livescore.cz/team.php?teamid=141789
+-:- , Marbella FC , http://www.livescore.cz/team.php?teamid=161781 , Almeria B , http://www.livescore.cz/team.php?teamid=189701
+-:- , Linense , http://www.livescore.cz/team.php?teamid=161785 , UCAM Murcia , http://www.livescore.cz/team.php?teamid=189783
+-:- , Granada B , http://www.livescore.cz/team.php?teamid=357262 , Cartagena , http://www.livescore.cz/team.php?teamid=8554
+-:- , Real Murcia , http://www.livescore.cz/team.php?teamid=8392 , Atletico Sanluqueno CF , http://www.livescore.cz/team.php?teamid=189730
+-:- , CD Badajoz , http://www.livescore.cz/team.php?teamid=7873 , Villanovense , http://www.livescore.cz/team.php?teamid=8216
+-:- , San Fernando CD , http://www.livescore.cz/team.php?teamid=213238 , Atletico Malagueno , http://www.livescore.cz/team.php?teamid=6210
+-:- , CF Talavera de la Reina , http://www.livescore.cz/team.php?teamid=357239 , Futbol Club Jumilla , http://www.livescore.cz/team.php?teamid=181803
+-:- , Don Benito , http://www.livescore.cz/team.php?teamid=2243 , Recreativo Huelva , http://www.livescore.cz/team.php?teamid=8479
+1:1 , Club Sport Herediano , http://www.livescore.cz/team.php?teamid=49726 , Deportiva San Carlos , http://www.livescore.cz/team.php?teamid=49728
+-:- , Grecia , http://www.livescore.cz/team.php?teamid=188427 , C.S. Cartagines , http://www.livescore.cz/team.php?teamid=49732
+-:- , Municipal Perez Zeledon , http://www.livescore.cz/team.php?teamid=49730 , Deportiva Carmelita , http://www.livescore.cz/team.php?teamid=49729
+-:- , Santos de Guapiles , http://www.livescore.cz/team.php?teamid=49733 , LD Alajuelense , http://www.livescore.cz/team.php?teamid=6335
+-:- , Guadalupe FC , http://www.livescore.cz/team.php?teamid=855904 , Universidad de Costa Rica , http://www.livescore.cz/team.php?teamid=91432
+-:- , Deportivo Saprissa , http://www.livescore.cz/team.php?teamid=6607 , Limon , http://www.livescore.cz/team.php?teamid=188433
+-:- , Apollon Limassol , http://www.livescore.cz/team.php?teamid=8003 , Omonia Nicosia , http://www.livescore.cz/team.php?teamid=8044
+-:- , AEK Larnaca , http://www.livescore.cz/team.php?teamid=7797 , Ermis Aradippou , http://www.livescore.cz/team.php?teamid=154789
+0:1 , CD Sonsonate , http://www.livescore.cz/team.php?teamid=657202 , Alianza FC , http://www.livescore.cz/team.php?teamid=49740
+2:2 , Santa Tecla FC , http://www.livescore.cz/team.php?teamid=322381 , Pasaquina , http://www.livescore.cz/team.php?teamid=561975
+-:- , CD Audaz , http://www.livescore.cz/team.php?teamid=858283 , Isidro Metapan , http://www.livescore.cz/team.php?teamid=49746
+-:- , CD FAS , http://www.livescore.cz/team.php?teamid=49742 , Firpo , http://www.livescore.cz/team.php?teamid=49744
+-:- , Municipal Limeno , http://www.livescore.cz/team.php?teamid=179505 , CD Chalatenango , http://www.livescore.cz/team.php?teamid=49741
+-:- , Fortuna Duesseldorf , http://www.livescore.cz/team.php?teamid=8194 , Bayern Munich , http://www.livescore.cz/team.php?teamid=9823
+-:- , Hertha Berlin , http://www.livescore.cz/team.php?teamid=8177 , Borussia Moenchengladbach , http://www.livescore.cz/team.php?teamid=9788
+-:- , Platanias , http://www.livescore.cz/team.php?teamid=184688 , Aiginiakos FC , http://www.livescore.cz/team.php?teamid=400081
+-:- , Doxa Dramas , http://www.livescore.cz/team.php?teamid=162385 , AE Sparti , http://www.livescore.cz/team.php?teamid=648264
+-:- , AE Karaiskakis , http://www.livescore.cz/team.php?teamid=488120 , Apollon Pontou , http://www.livescore.cz/team.php?teamid=6281
+-:- , Aittitos Spaton , http://www.livescore.cz/team.php?teamid=885255 , Kissamikos FC , http://www.livescore.cz/team.php?teamid=488110
+-:- , NFC Volos , http://www.livescore.cz/team.php?teamid=885256 , Panachaiki , http://www.livescore.cz/team.php?teamid=8069
+-:- , Iraklis , http://www.livescore.cz/team.php?teamid=8675 , Ergotelis , http://www.livescore.cz/team.php?teamid=9751
+-:- , Trikala , http://www.livescore.cz/team.php?teamid=184697 , Apollon Larissa , http://www.livescore.cz/team.php?teamid=792347
+1:0 , Club Xelaju , http://www.livescore.cz/team.php?teamid=49758 , Deportivo Malacateco , http://www.livescore.cz/team.php?teamid=89674
+-:- , Deportivo Chiantla , http://www.livescore.cz/team.php?teamid=469118 , Sanarate , http://www.livescore.cz/team.php?teamid=659267
+-:- , Guastatoya , http://www.livescore.cz/team.php?teamid=188303 , Antigua Guatemala , http://www.livescore.cz/team.php?teamid=188298
+-:- , Juticalpa , http://www.livescore.cz/team.php?teamid=655719 , Real Espana , http://www.livescore.cz/team.php?teamid=49783
+-:- , CD Vida , http://www.livescore.cz/team.php?teamid=49786 , CD Olimpia , http://www.livescore.cz/team.php?teamid=6336
+-:- , CD Motagua , http://www.livescore.cz/team.php?teamid=49785 , Honduras Progreso , http://www.livescore.cz/team.php?teamid=559874
+-:- , Platense FC , http://www.livescore.cz/team.php?teamid=49777 , Real de Minas , http://www.livescore.cz/team.php?teamid=949954
+-:- , Shillong Lajong , http://www.livescore.cz/team.php?teamid=184549 , Indian Arrows , http://www.livescore.cz/team.php?teamid=231168
+2:1 , Atletico de San Luis , http://www.livescore.cz/team.php?teamid=6358 , Jaibos Tampico Madero , http://www.livescore.cz/team.php?teamid=162409
+0:2 , Venados FC , http://www.livescore.cz/team.php?teamid=162400 , CA Zacatepec , http://www.livescore.cz/team.php?teamid=452820
+2:1 , FC Juarez , http://www.livescore.cz/team.php?teamid=649424 , Leones Negros , http://www.livescore.cz/team.php?teamid=177535
+0:0 , Celaya , http://www.livescore.cz/team.php?teamid=1839 , Mineros de Zacatecas , http://www.livescore.cz/team.php?teamid=6574
+0:0 , U.A. Estado de Mexico , http://www.livescore.cz/team.php?teamid=584864 , Alebrijes Oaxaca , http://www.livescore.cz/team.php?teamid=452823
+-:- , KACM , http://www.livescore.cz/team.php?teamid=102042 , Olympic Club de Safi , http://www.livescore.cz/team.php?teamid=102047
+-:- , Kwara United , http://www.livescore.cz/team.php?teamid=102060 , Sunshine Stars , http://www.livescore.cz/team.php?teamid=102067
+-:- , Enyimba , http://www.livescore.cz/team.php?teamid=6623 , MFM FC , http://www.livescore.cz/team.php?teamid=722100
+-:- , Lobi Stars , http://www.livescore.cz/team.php?teamid=102061 , Katsina United , http://www.livescore.cz/team.php?teamid=818870
+-:- , Rivers United FC , http://www.livescore.cz/team.php?teamid=184466 , Remo Stars , http://www.livescore.cz/team.php?teamid=818875
+-:- , Wikki Tourist , http://www.livescore.cz/team.php?teamid=102068 , Bendel Insurance , http://www.livescore.cz/team.php?teamid=102053
+-:- , Enugu Rangers , http://www.livescore.cz/team.php?teamid=102054 , Niger Tornadoes , http://www.livescore.cz/team.php?teamid=102063
+-:- , Akwa United , http://www.livescore.cz/team.php?teamid=102051 , El Kanemi Warriors , http://www.livescore.cz/team.php?teamid=430189
+-:- , Kano Pillars , http://www.livescore.cz/team.php?teamid=102059 , Heartland Owerri , http://www.livescore.cz/team.php?teamid=102056
+-:- , Plateau United , http://www.livescore.cz/team.php?teamid=213295 , Ifeanyi Ubah United , http://www.livescore.cz/team.php?teamid=618231
+-:- , Nasarawa United , http://www.livescore.cz/team.php?teamid=102062 , Abia Warriors , http://www.livescore.cz/team.php?teamid=520679
+-:- , Go Round , http://www.livescore.cz/team.php?teamid=910892 , Kada City , http://www.livescore.cz/team.php?teamid=1012196
+-:- , Yobe Desert Stars , http://www.livescore.cz/team.php?teamid=910891 , Gombe United , http://www.livescore.cz/team.php?teamid=102055
+-:- , Bloemfontein Celtic , http://www.livescore.cz/team.php?teamid=102088 , Lamontville Golden Arrows , http://www.livescore.cz/team.php?teamid=102097
+-:- , Canberra United FC , http://www.livescore.cz/team.php?teamid=675727 , Adelaide United , http://www.livescore.cz/team.php?teamid=675725
+-:- , Arsenal , http://www.livescore.cz/team.php?teamid=258657 , Chelsea Ladies , http://www.livescore.cz/team.php?teamid=258661
+-:- , Birmingham City , http://www.livescore.cz/team.php?teamid=258658 , Bristol City WFC , http://www.livescore.cz/team.php?teamid=258659
+-:- , Brighton & Hove Albion , http://www.livescore.cz/team.php?teamid=231505 , Everton , http://www.livescore.cz/team.php?teamid=258663
+-:- , West Ham United , http://www.livescore.cz/team.php?teamid=231497 , Manchester City , http://www.livescore.cz/team.php?teamid=231488
+-:- , Yeovil Town , http://www.livescore.cz/team.php?teamid=231504 , Liverpool , http://www.livescore.cz/team.php?teamid=258665
+-:- , Lille , http://www.livescore.cz/team.php?teamid=862894 , Paris Saint Germain , http://www.livescore.cz/team.php?teamid=294858
